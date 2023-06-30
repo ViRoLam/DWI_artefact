@@ -33,14 +33,15 @@ If you don't have access to Mac OS, or you want to  run the program inside a ter
 - Matplotlib
 
 
-## Acknowledgments 
-
-Special thanks to Lya Katarina Paas Oliveros and Kyesam Jung who helped me throughout the project.
-Also this project could not have been done if it weren't for Robert Langner who supervised it.
-
 ## Demo 
 
 You can find a demo of the program here: 
 
 ![video](Artefact_removal_vid.gif)
+
+
+## Acknowledgments 
+
+Special thanks to Lya Katarina Paas Oliveros and Kyesam Jung who helped me throughout the project.
+Also this project could not have been done if it weren't for Robert Langner who supervised it.
 
