@@ -2,7 +2,8 @@
 
 This Python application is designed to detect and remove artefacts in Diffusion Weighted Imaging (DWI) data. It features an integrated GUI and is compatible with MacOS. The project was developed during an internship at the INM-7 institute, part of the Jülich Forschungszentrum.
 
-__[A screenshot of the app](Screenshot_app.png)__
+<img src="Screenshot_app.png" width="500"/>
+
 
 ## Features
 - Detects line artefacts in DWI data, which resemble black lines that span one or more brain slices.
@@ -13,15 +14,15 @@ __[A screenshot of the app](Screenshot_app.png)__
 ## Methodology
 The application detects artefacts by calculating the mean brightness of each brain slice and identifying significant changes in brightness from one slice to another. If the change in brightness surpasses a user-defined threshold, the program reports an artefact.
 
-__[Example of an artefact](example_of_an_artefact_detection.png)__
+<img src="example_of_an_artefact_detection.png" width="500"/>
 
 
 ## Future Work
 
 Future versions of the application aim to detect wave artefacts in the data using Fourier transform. This feature is currently under development and not yet available due to challenges in normalizing brightness across different brain volumes.
 
+<img src="Example_of_grid_detection_faulty.png" width="500"/>
 
-__[Example of wave artefact detection](Example_of_grid_detection_faulty.png)__
 
 ## Dependencies
 
