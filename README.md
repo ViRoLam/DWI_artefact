@@ -41,5 +41,6 @@ Also this project could not have been done if it weren't for Robert Langner who 
 ## Demo 
 
 You can find a demo of the program here: 
-https://github.com/ViRoLam/DWI_artefact/assets/137409570/a3ca5015-08d5-40e1-91ab-d8b9bd33be0a
+
+![video](Artefact_removal_vid.gif)
 
